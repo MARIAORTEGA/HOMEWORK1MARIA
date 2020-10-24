@@ -40,8 +40,9 @@ body {
     background-color: #d9dcd6; /*set color to light grayish green*/
 }
 
+/*set link color to white*/
 a {
-    color: #ffffff; /*set color to white*/
+    color: #ffffff; 
     text-decoration: none;
 }
 
@@ -49,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/*sets style for three middle main sections of the site;
+search engine opt., online reputation mngmt., social media mktg.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,12 +65,14 @@ p {
     float: left;
     margin-right: 25px;
 }
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*sets style for the right side of the site which includes:
+Lead Generation, Benefit brand, Benefit cost */
 
 .benefits {
     margin-right: 20px;
@@ -126,3 +131,4 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+
