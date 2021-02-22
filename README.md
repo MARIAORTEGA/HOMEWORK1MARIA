@@ -3,11 +3,11 @@ Note: The Webpage Horiseon has been refactored to be more accessible.
 
 Title of app:  Horiseon
 
-Live link to deployed app 
+Live link to deployed app: https://mariaortega.github.io/HOMEWORK1MARIA/
 
-List of technologies used 
+List of technologies used:  an html, css, 7 png and jpg images.
 
-1-2 sentences explaining what the app is 
+1-2 sentences explaining what the app is: The Webpage Horiseon has been refactored to be more accessible. This app helps users with marketing, social media managememt, and engine optimization. 
 
 2-3 Screenshots / gifs of the app 
 
