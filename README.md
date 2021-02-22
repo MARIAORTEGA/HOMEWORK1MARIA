@@ -13,7 +13,7 @@ List of technologies used:  an html, css, 7 png and jpg images.
 
 ![Screen Shot 2020-10-24 at 4 43 58 PM](https://user-images.githubusercontent.com/71056915/97093523-93d36e80-161a-11eb-8b7f-42ac1329f951.png)
 
-License (usually MIT):
+License (MIT)
 
 Contact information for you and any collaborators: my email: mariaortegapb@gmail.com
 
