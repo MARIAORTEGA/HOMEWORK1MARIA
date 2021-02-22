@@ -1,6 +1,19 @@
 # HOMEWORK1MARIA
 Note: The Webpage Horiseon has been refactored to be more accessible.
 
+Title of app:  Horiseon
+
+Live link to deployed app 
+
+List of technologies used 
+
+1-2 sentences explaining what the app is 
+
+2-3 Screenshots / gifs of the app 
+
+License (usually MIT) 
+
+Contact information for you and any collaborators 
 
 https://mariaortega.github.io/HOMEWORK1MARIA/
 
