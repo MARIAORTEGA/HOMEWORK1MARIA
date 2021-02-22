@@ -1,5 +1,4 @@
 # HOMEWORK1MARIA
-Note: The Webpage Horiseon has been refactored to be more accessible.
 
 Title of app:  Horiseon
 
